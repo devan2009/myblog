@@ -1,0 +1,47 @@
+body{
+    background-color: cyan;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+
+li {
+  float: left;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111111;
+}
+
+marquee{
+    font-family: 'Itim', cursive;
+}
+
+h4{
+    font-size: 18;
+}
+
+.mapouter{
+    width: 100%;
+}
+
+h5{
+    font-size: 20;
+    text-align: center;
+}
